@@ -2,4 +2,4 @@
 
 A brief Git &amp; GitHub introductory session (2/22/20)
 
-Live demos are cool! 🤓
+Live demos are cool! 👨🏻‍💻
